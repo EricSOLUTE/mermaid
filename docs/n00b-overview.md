@@ -46,7 +46,7 @@ It is a relatively straightforward solution to a significant hurdle with the sof
 
 - Ease to generate, modify and render diagrams when you make them.
 - The number of integrations and plugins it has.
-- You can add it to your or companies website.
+- You can add it to your or company's website.
 - Diagrams can be created through comments like this in a script:
 
 ## The catch-22 of Diagrams and Charts:
